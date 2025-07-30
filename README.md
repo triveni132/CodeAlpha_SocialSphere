@@ -8,6 +8,9 @@ All user data—such as posts, likes, comments, and follow relationships—is st
 
 ---
 
+> 🌐 Live Demo:   (https://code-alpha-social-sphere-cq4y.vercel.app/)
+
+---
 ## 🎯 Features
 
 - 👤 Create and switch between simple user profiles
